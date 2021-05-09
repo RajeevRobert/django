@@ -1,3 +1,3 @@
 def show(self):
-  print("hello world")
+  print("hello world of GitHub")
 show()
